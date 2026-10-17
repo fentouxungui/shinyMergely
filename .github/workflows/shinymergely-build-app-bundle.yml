@@ -50,7 +50,7 @@ env:
   APP_DESC: "Compare and merge two files with a Shiny app"
   APP_HOMEPAGE: "https://github.com/stla/shinyMergely"
   APP_LICENSE: "GPL-3.0"
-  APP_MODE: "auto"
+  APP_MODE: "flat"
   APP_SUBDIR: "inst/shinyApp"
   PKG_SUBDIR: "."
   ENTRY_FN: ""
